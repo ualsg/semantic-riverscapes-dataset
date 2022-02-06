@@ -55,4 +55,4 @@ and (iii) Large-scale 3D Geospatial Data for Urban Analytics, which is supported
 
 ## Questions and Comments
 For comments and feedback, contact Junjie Luo at luojunjie4669@gmail.com or Filip Biljecki at filip@nus.edu.sg.
-For more information, please see our website [Urban Analytics Lab](https://ual.sg/), National University of Singapore, Singapore
+For more information, please see our website [Urban Analytics Lab](https://ual.sg/), National University of Singapore.
