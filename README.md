@@ -5,20 +5,20 @@ This dataset has 400 high-resolution images spanning the river and surrounding a
 Each image was manually labelled. 
 A total of **14 categories** are selected for annotation, namely: 
 
--building
--cottage
--under construction place
--tree
--grass
--water grass
--soil
--hard ground
--water
--sky
--human
--car
--boat
--void
+1.building
+2.cottage
+3.under construction place
+4.tree
+5.grass
+6.water grass
+7.soil
+8.hard ground
+9.water
+10.sky
+11.human
+12.car
+13.boat
+14.void
 
 ## Data collection
 A DJI Mavic Air 2 UAV was used to obtain geo-tagged aerial oblique imagery from an altitude range of 20 to 70 metres.
