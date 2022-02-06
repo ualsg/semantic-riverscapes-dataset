@@ -1,31 +1,44 @@
 # Semantic Riverscapes Dataset
+
+<div align=center>
+<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/logo.png" width="400px">
+</div>
+
 ## Introduction
 A new drone-based oblique riverscape semantic segmentation dataset is created and released openly. 
 This dataset has 400 high-resolution images spanning the river and surrounding areas, each with a size of 1800 x 1480 pixels.
 Each image was manually labelled. 
 A total of **14 categories** are selected for annotation, namely: 
-1. building
-2. cottage
-3. under construction place
-4. tree
-5. grass
-6. water grass
-7. soil
-8. hard ground
-9. water
-10. sky
-11. human
-12. car
-13. boat
-14. void
+* building
+* cottage
+* under construction place
+* tree
+* grass
+* water grass
+* soil
+* hard ground
+* water
+* sky
+* human
+* car
+* boat
+* void
+
+<!-- ![Segmentation_results](https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/Segmentation_results.jpg) -->
+<div align=center>
+<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/Segmentation_results.jpg" width="600px">
+</div>
+
 
 ## Data collection
-A DJI Mavic Air 2 UAV was used to obtain geo-tagged aerial oblique imagery from an altitude range of 20 to 70 metres.
+A **DJI Mavic Air 2** UAV was used to obtain geo-tagged aerial oblique imagery from an altitude range of 20 to 70 metres.
 The data collection area is located in the Tianjin section of the Grand Canal and the Hai river.
 The aerial photography data collection took place over four days from 10 am to 6 pm during the period from July to September 2021 under stable light conditions. 
 
+
 ## Instructions
 This dataset is available for download on [Google Drive](https://drive.google.com/file/d/1gzTm4P3UFSKJ-v4g4Br2vuTQwSQRRYWC/view?usp=sharing).
+
 
 ## Reference
 If you use Semantic Riverscapes in your research, please cite the following:
