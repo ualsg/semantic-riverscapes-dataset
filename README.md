@@ -31,7 +31,7 @@ A total of **14 categories** are selected for annotation, namely:
 
 
 ## Data collection
-A **DJI Mavic Air 2** UAV was used to obtain geo-tagged aerial oblique imagery from an altitude range of 20 to 70 metres.
+A **[DJI Mavic Air 2](https://www.dji.com/sg/mavic-air-2?site=brandsite&from=nav)** UAV was used to obtain geo-tagged aerial oblique imagery from an altitude range of 20 to 70 metres.
 The data collection area is located in the Tianjin section of the Grand Canal and the Hai river.
 The aerial photography data collection took place over four days from 10 am to 6 pm during the period from July to September 2021 under stable light conditions. 
 
@@ -52,3 +52,6 @@ This research is part of the projects
 (i) Research on the theory and digital technologies of the Grand Canal's cultural heritage protection, which is supported by the National Social Science Foundation of China; 
 (ii) The Technical Key Project of Shenzhen Science and Technology Innovation Commission Grant JSGG20201103093401004; 
 and (iii) Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start Up Grant R-295-000-171-133.
+
+## Questions and Comments
+For comments and feedback, contact Junjie Luo at luojunjie4669@gmail.com or Filip Biljecki at filip@nus.edu.sg.
