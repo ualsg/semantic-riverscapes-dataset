@@ -4,9 +4,8 @@ A new drone-based oblique riverscape semantic segmentation dataset is created an
 This dataset has 400 high-resolution images spanning the river and surrounding areas, each with a size of 1800 x 1480 pixels.
 Each image was manually labelled. 
 A total of **14 categories** are selected for annotation, namely: 
-
-1.building
-2.cottage
+1. building
+2. cottage
 3.under construction place
 4.tree
 5.grass
@@ -30,7 +29,9 @@ This dataset is available for download on [Google Drive](https://drive.google.co
 
 ## Reference
 If you use Semantic Riverscapes in your research, please cite the following:
+```
 Semantic Riverscapes: Perception and evaluation of linear landscapes from oblique imagery using computer vision.
+```
 
 ## Acknowledgements
 We thank the members of the NUS Urban Analytics Lab for the discussions, and Zexin Lei and Wenzheng Zhang for the help with the UAV data collection.
