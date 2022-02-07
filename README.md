@@ -28,7 +28,7 @@ A total of **14 categories** are selected for annotation, namely:
 
 <!-- ![Segmentation_results](https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/Segmentation_results.jpg) -->
 <div align=center>
-<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/Segmentation_results.jpg" width="600px">
+<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/label.jpg" width="400px">
 </div>
 
 ## Data collection
