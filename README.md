@@ -31,7 +31,7 @@ A total of **14 categories** are selected for annotation, namely:
 
 
 ## Data collection
-A **[DJI Mavic Air 2](https://www.dji.com/sg/mavic-air-2?site=brandsite&from=nav)** UAV was used to obtain geo-tagged aerial oblique imagery from an altitude range of 20 to 70 metres.
+A **[DJI Mavic Air 2](https://www.dji.com/sg/mavic-air-2?site=brandsite&from=nav)** UAV was used to obtain geo-tagged aerial oblique imagery from an altitude range of 30 to 60 metres.
 The data collection area is located in the Tianjin section of the Grand Canal and the Hai river.
 The aerial photography data collection took place over four days from 10 am to 6 pm during the period from July to September 2021 under stable light conditions. 
 
