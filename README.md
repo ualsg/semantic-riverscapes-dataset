@@ -40,9 +40,23 @@ The aerial photography data collection took place over four days from 10 am to 6
 This dataset is available for download on [Google Drive](https://drive.google.com/file/d/1gzTm4P3UFSKJ-v4g4Br2vuTQwSQRRYWC/view?usp=sharing).
 
 ## Reference, citation, and documentation
-If you use Semantic Riverscapes in your research, please attribute the source of this dataset.
+A [paper](https://doi.org/10.1016/j.landurbplan.2022.104569) about the work was published in *Landscape and Urban Planning*.
 
-A paper is in progress, and the citation will be added here.
+If you use Semantic Riverscapes Dataset in your research, please cite this article.
+
+```
+@article{2022_land_semantic_riverscapes, 
+  year = {2022}, 
+  title = {{Semantic Riverscapes: Perception and evaluation of linear landscapes from oblique imagery using computer vision}}, 
+  author = {Luo, Junjie and Zhao, Tianhong, and Cao, Lei and Biljecki, Filip}, 
+  journal = {Landscape and Urban Planning}, 
+  doi = {10.1016/j.landurbplan.2022.104569}, 
+  pages = {104569}, 
+  volume = {228}
+}
+```
+
+
 
 ## License
 This dataset is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
