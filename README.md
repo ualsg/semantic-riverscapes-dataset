@@ -41,6 +41,7 @@ This dataset is available for download on [Google Drive](https://drive.google.co
 
 ## Reference, citation, and documentation
 A [paper](https://doi.org/10.1016/j.landurbplan.2022.104569) about the work was published in *Landscape and Urban Planning*.
+It is available open access [here](https://ual.sg/publication/2022-land-semantic-riverscapes/2022-land-semantic-riverscapes.pdf).
 
 If you use Semantic Riverscapes Dataset in your research, please cite the article:
 
